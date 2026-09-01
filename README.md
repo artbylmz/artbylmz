@@ -20,7 +20,7 @@
 > fastfetch
 ```
 
-<img align="left" src="https://via.placeholder.com/300x300.png?text=Your+Art+Here" width="300" alt="[ replace with your own artwork / photo ]" />
+<img align="left" src="https://placehold.co/300x300?text=Your+Art+Here" width="300" alt="[ replace with your own artwork / photo ]" />
 
 ```csharp
 artbylmz@github
@@ -42,7 +42,7 @@ Location: [ City, Country ]
 
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="#0E1128" src="https://via.placeholder.com/15/0E1128/000000?text=+" width="25" height="20" /><img alt="#FF4713" src="https://via.placeholder.com/15/FF4713/000000?text=+" width="25" height="20" /><img alt="#5C2D91" src="https://via.placeholder.com/15/5C2D91/000000?text=+" width="25" height="20" /><img alt="#2ea44f" src="https://via.placeholder.com/15/2ea44f/000000?text=+" width="25" height="20" /><img alt="#C6266A" src="https://via.placeholder.com/15/C6266A/000000?text=+" width="25" height="20" />
+  <img alt="#0E1128" src="https://img.shields.io/badge/-%20-0E1128?style=flat-square" width="25" height="20" /><img alt="#FF4713" src="https://img.shields.io/badge/-%20-FF4713?style=flat-square" width="25" height="20" /><img alt="#5C2D91" src="https://img.shields.io/badge/-%20-5C2D91?style=flat-square" width="25" height="20" /><img alt="#2ea44f" src="https://img.shields.io/badge/-%20-2ea44f?style=flat-square" width="25" height="20" /><img alt="#C6266A" src="https://img.shields.io/badge/-%20-C6266A?style=flat-square" width="25" height="20" />
 </p>
 
 <br clear="left" />
@@ -82,19 +82,19 @@ Location: [ City, Country ]
 <table>
   <tr>
     <td width="33%">
-      <img src="https://via.placeholder.com/400x225?text=Project+1" width="100%"/><br/>
+      <img src="https://placehold.co/400x225?text=Project+1" width="100%"/><br/>
       <b>[ Project Name 1 ]</b><br/>
       [ one-line description — engine, your role, what shipped ]<br/>
       <a href="#">[ link ]</a>
     </td>
     <td width="33%">
-      <img src="https://via.placeholder.com/400x225?text=Project+2" width="100%"/><br/>
+      <img src="https://placehold.co/400x225?text=Project+2" width="100%"/><br/>
       <b>[ Project Name 2 ]</b><br/>
       [ one-line description ]<br/>
       <a href="#">[ link ]</a>
     </td>
     <td width="33%">
-      <img src="https://via.placeholder.com/400x225?text=Project+3" width="100%"/><br/>
+      <img src="https://placehold.co/400x225?text=Project+3" width="100%"/><br/>
       <b>[ Project Name 3 ]</b><br/>
       [ one-line description ]<br/>
       <a href="#">[ link ]</a>
