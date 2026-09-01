@@ -11,14 +11,13 @@
   - Project cards (name, one-liner, link, image)
   - LinkedIn / ArtStation / itch.io links
   - Resume link
-  - Avatar image (currently a placeholder box)
 -->
 
 ```zsh
 > fastfetch
 ```
 
-<img align="left" src="https://placehold.co/300x300?text=Your+Art+Here" width="300" alt="[ replace with your own artwork / photo ]" />
+<img align="left" src="assets/avatar.jpg" width="300" alt="artbylmz" />
 
 ```csharp
 artbylmz@github
