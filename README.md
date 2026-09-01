@@ -34,9 +34,7 @@ artbylmz@github
 ✉️  Contact:     artbylmz@hotmail.com
 ```
 
-```csharp
-🎨 Colors:
-```
+**🎨 Colors**
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="#0E1128" src="https://img.shields.io/badge/-%20-0E1128?style=flat-square" width="25" height="20" /><img alt="#FF4713" src="https://img.shields.io/badge/-%20-FF4713?style=flat-square" width="25" height="20" /><img alt="#5C2D91" src="https://img.shields.io/badge/-%20-5C2D91?style=flat-square" width="25" height="20" /><img alt="#2ea44f" src="https://img.shields.io/badge/-%20-2ea44f?style=flat-square" width="25" height="20" /><img alt="#C6266A" src="https://img.shields.io/badge/-%20-C6266A?style=flat-square" width="25" height="20" /><img alt="#31A8FF" src="https://img.shields.io/badge/-%20-31A8FF?style=flat-square" width="25" height="20" /><img alt="#F5792A" src="https://img.shields.io/badge/-%20-F5792A?style=flat-square" width="25" height="20" />
