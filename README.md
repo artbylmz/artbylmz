@@ -16,29 +16,38 @@
   - Resume link
 -->
 
-<div align="center">
-
+```zsh
+> fastfetch
 ```
-        ▄▄▄▄▄▄▄▄▄▄▄       artbylmz@github
-      ▄██████████████▄    ────────────────────────────────
-     █████▀▀▀▀▀▀▀▀█████    OS: [ Technical Artist ] (Game Art)
-    ████▀            ▀████ Host: [ Studio / Freelance ]
-    ███    ARTIST    ███   Kernel: [ X ]-shipped-titles
-    ████▄            ▄████ Uptime: [ X ] yrs in games industry
-     █████▄▄▄▄▄▄▄▄█████    Shell: [ Unreal Engine 5 ]
-      ▀██████████████▀     DE: [ Houdini ]
-        ▀▀▀▀▀▀▀▀▀▀▀       WM: [ Python · MEL · VEX ]
-                           Terminal: [ Substance 3D Painter ]
-                           CPU: Shader Authoring (8) @ [ HLSL ]
-                           GPU: Real-time VFX Rendering
-                           Memory: Learning [ Nanite / Lumen ]
 
-                           🟥🟧🟨🟩🟦🟪⬛⬜
+<img align="left" src="https://via.placeholder.com/300x300.png?text=Your+Art+Here" width="300" alt="[ replace with your own artwork / photo ]" />
+
+```csharp
+artbylmz@github
+-------------------------
+OS: [ Technical Artist ] (Game Art)
+Host: [ Studio / Freelance ]
+Kernel: [ X ]-shipped-titles
+Uptime: [ X ] yrs in games industry
+Shell: [ Unreal Engine 5 ]
+DE: [ Houdini ]
+WM: [ Python, MEL, VEX ]
+Terminal: [ Substance 3D Painter ]
+CPU: Shader Authoring @ [ HLSL ]
+GPU: Real-time VFX Rendering
+Memory: Learning [ Nanite, Lumen ]
+Pronouns: [ He/Him ]
+Location: [ City, Country ]
 ```
+
+<p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="#0E1128" src="https://via.placeholder.com/15/0E1128/000000?text=+" width="25" height="20" /><img alt="#FF4713" src="https://via.placeholder.com/15/FF4713/000000?text=+" width="25" height="20" /><img alt="#5C2D91" src="https://via.placeholder.com/15/5C2D91/000000?text=+" width="25" height="20" /><img alt="#2ea44f" src="https://via.placeholder.com/15/2ea44f/000000?text=+" width="25" height="20" /><img alt="#C6266A" src="https://via.placeholder.com/15/C6266A/000000?text=+" width="25" height="20" />
+</p>
+
+<br clear="left" />
 
 **[ One-line pitch — e.g. "Technical Artist bridging art and engineering to ship real-time visuals that perform." ]**
-
-</div>
 
 ---
 
