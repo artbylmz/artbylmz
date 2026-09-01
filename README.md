@@ -7,13 +7,11 @@
   2. Put this file in it as README.md and push. GitHub will show it on
      your profile page automatically: https://github.com/artbylmz
   ------------------------------------------------------------
-  PLACEHOLDERS TO REPLACE BEFORE PUBLISHING (search for [ ... ]):
-  - Bio line
-  - Studio / years / engine / DCC / focus fields in the fastfetch block
-  - Skill badge list (keep only tools you actually use)
+  STILL TO REPLACE (search for [ ... ]):
   - Project cards (name, one-liner, link, image)
-  - Contact links (email, LinkedIn, ArtStation, Portfolio, itch.io)
+  - LinkedIn / ArtStation / itch.io links
   - Resume link
+  - Avatar image (currently a placeholder box)
 -->
 
 ```zsh
@@ -25,19 +23,15 @@
 ```csharp
 artbylmz@github
 -------------------------
-OS: [ Technical Artist ] (Game Art)
-Host: [ Studio / Freelance ]
-Kernel: [ X ]-shipped-titles
-Uptime: [ X ] yrs in games industry
-Shell: [ Unreal Engine 5 ]
-DE: [ Houdini ]
-WM: [ Python, MEL, VEX ]
-Terminal: [ Substance 3D Painter ]
-CPU: Shader Authoring @ [ HLSL ]
-GPU: Real-time VFX Rendering
-Memory: Learning [ Nanite, Lumen ]
-Pronouns: [ He/Him ]
-Location: [ City, Country ]
+Name: Yilmaz Seyhan (ylmz / ylmzart / artbylmz)
+Role: Technical Artist / Game Artist
+Location: Antalya, Turkey (open to relocation)
+Shell: Unreal Engine 4/5
+DE: Blender, Substance Designer/Painter
+WM: Photoshop, Perforce, Plastic SCM, Git/GitHub
+Languages: HLSL, GLSL, C++, Rust, C#
+Also using: 3D Coat, Marmoset Toolset, Houdini, Maya
+Portfolio: ylmz.art
 ```
 
 <p align="left">
@@ -47,33 +41,38 @@ Location: [ City, Country ]
 
 <br clear="left" />
 
-**[ One-line pitch — e.g. "Technical Artist bridging art and engineering to ship real-time visuals that perform." ]**
+**Technical Artist & Game Artist based in Antalya, Turkey — open to relocation. Portfolio: [ylmz.art](https://ylmz.art)**
 
 ---
 
-### `~/skills` — replace with your actual toolset
+### `~/skills`
 
-**Engines**
+**Core toolset**
 
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-
-**DCC / Content Creation**
-
-![Houdini](https://img.shields.io/badge/Houdini-FF4713?style=for-the-badge&logo=houdini&logoColor=white)
-![Maya](https://img.shields.io/badge/Maya-0696D7?style=for-the-badge&logo=autodeskmaya&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Unreal Engine 4/5](https://img.shields.io/badge/Unreal%20Engine%204%2F5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Substance Painter](https://img.shields.io/badge/Substance%20Painter-C6266A?style=for-the-badge&logo=adobesubstancepainter&logoColor=white)
 ![Substance Designer](https://img.shields.io/badge/Substance%20Designer-CB2027?style=for-the-badge&logo=adobesubstance3ddesigner&logoColor=white)
-![ZBrush](https://img.shields.io/badge/ZBrush-4770FF?style=for-the-badge&logo=pixologic&logoColor=white)
-
-**Code / Pipeline**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HLSL](https://img.shields.io/badge/HLSL-Shaders-5C2D91?style=for-the-badge)
+![Substance Painter](https://img.shields.io/badge/Substance%20Painter-C6266A?style=for-the-badge&logo=adobesubstancepainter&logoColor=white)
+![Plastic SCM](https://img.shields.io/badge/Plastic%20SCM-6C6C6C?style=for-the-badge)
 ![Perforce](https://img.shields.io/badge/Perforce-404040?style=for-the-badge&logo=perforce&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Also using**
+
+![3D Coat](https://img.shields.io/badge/3D%20Coat-2D2D2D?style=for-the-badge)
+![Marmoset Toolset](https://img.shields.io/badge/Marmoset%20Toolset-222222?style=for-the-badge)
+![Houdini](https://img.shields.io/badge/Houdini-FF4713?style=for-the-badge&logo=houdini&logoColor=white)
+![Maya](https://img.shields.io/badge/Maya-0696D7?style=for-the-badge&logo=autodeskmaya&logoColor=white)
+
+**Languages**
+
+![HLSL](https://img.shields.io/badge/HLSL-5C2D91?style=for-the-badge)
+![GLSL](https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge)
 
 ---
 
@@ -121,10 +120,10 @@ Location: [ City, Country ]
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[your-email@example.com])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artbylmz@hotmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ylmz.art-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ylmz.art)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url])
 [![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white)]([your-artstation-url])
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)]([your-portfolio-url])
 [![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)]([your-itch-url])
 [![Resume](https://img.shields.io/badge/Resume-Download-2ea44f?style=for-the-badge&logo=readdotcv&logoColor=white)]([link-to-your-resume-pdf])
 
