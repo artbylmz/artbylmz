@@ -126,6 +126,19 @@ otherwise mean opening a DCC and clicking through the same steps again.
 
 ---
 
+### `~/stars`
+
+<!-- Auto-updated daily by .github/workflows/stars.yml (last 5 starred repos). -->
+<!-- RECENT_STARS:START -->
+- [woelper/oculante](https://github.com/woelper/oculante) - A fast and simple image viewer / editor for many operating systems
+- [bluescan/tacentview](https://github.com/bluescan/tacentview) - An image and texture viewer for tga, png, apng, exr, dds, pvr, ktx, ktx2, astc, pkm, qoi, gif, hdr, jpg, tif, ico, webp, and bmp files. Uses...
+- [Yadhu-S/UnrealJolt](https://github.com/Yadhu-S/UnrealJolt) - Jolt physics integration (Plugin) for Unreal Engine 5 (UE5)
+- [akkz/UGCGameplayMessageRouter](https://github.com/akkz/UGCGameplayMessageRouter) - Enhanced version of Lyra's GameplayMessageRouter, incorporating Minecraft's messaging concepts. Features unified message structs as keys, ob...
+- [UnrealDirective/DirectiveUtilities](https://github.com/UnrealDirective/DirectiveUtilities) - An open-source Unreal Engine plugin that provides quality-of-life functionality to developers.
+<!-- RECENT_STARS:END -->
+
+---
+
 ### `~/contact`
 
 <div align="center">
