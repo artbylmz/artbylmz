@@ -130,11 +130,11 @@ otherwise mean opening a DCC and clicking through the same steps again.
 
 <!-- Auto-updated daily by .github/workflows/stars.yml (last 5 starred repos). -->
 <!-- RECENT_STARS:START -->
+- [Sapd/HeadsetControl](https://github.com/Sapd/HeadsetControl) - Sidetone and Battery status for Logitech G930, G533, G633, G933 SteelSeries Arctis 7/PRO 2019 and Corsair VOID (Pro) in Linux and MacOSX
+- [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo.
+- [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-f...
 - [woelper/oculante](https://github.com/woelper/oculante) - A fast and simple image viewer / editor for many operating systems
 - [bluescan/tacentview](https://github.com/bluescan/tacentview) - An image and texture viewer for tga, png, apng, exr, dds, pvr, ktx, ktx2, astc, pkm, qoi, gif, hdr, jpg, tif, ico, webp, and bmp files. Uses...
-- [Yadhu-S/UnrealJolt](https://github.com/Yadhu-S/UnrealJolt) - Jolt physics integration (Plugin) for Unreal Engine 5 (UE5)
-- [akkz/UGCGameplayMessageRouter](https://github.com/akkz/UGCGameplayMessageRouter) - Enhanced version of Lyra's GameplayMessageRouter, incorporating Minecraft's messaging concepts. Features unified message structs as keys, ob...
-- [UnrealDirective/DirectiveUtilities](https://github.com/UnrealDirective/DirectiveUtilities) - An open-source Unreal Engine plugin that provides quality-of-life functionality to developers.
 <!-- RECENT_STARS:END -->
 
 ---
