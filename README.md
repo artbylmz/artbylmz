@@ -130,11 +130,11 @@ otherwise mean opening a DCC and clicking through the same steps again.
 
 <!-- Auto-updated daily by .github/workflows/stars.yml (last 5 starred repos). -->
 <!-- RECENT_STARS:START -->
+- [experientiallabs/experiential](https://github.com/experientiallabs/experiential) - Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut...
+- [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI t...
 - [B16f00t/whapa](https://github.com/B16f00t/whapa) - WhatsApp Parser Toolset v1.59
 - [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harness...
-- [LeopardSwissRoll/RetroVHS-Docs](https://github.com/LeopardSwissRoll/RetroVHS-Docs) - RetroVHS documentation: VHS camcorder post process for Unreal Engine 5.3-5.8
-- [NVlabs/cuda-oxide](https://github.com/NVlabs/cuda-oxide) - cuda-oxide is a Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code di...
-- [neil3d/UnrealCookbook](https://github.com/neil3d/UnrealCookbook) - 虚幻4引擎的一些编程实践分享
 <!-- RECENT_STARS:END -->
 
 ---
