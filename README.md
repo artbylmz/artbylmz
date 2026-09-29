@@ -130,11 +130,11 @@ otherwise mean opening a DCC and clicking through the same steps again.
 
 <!-- Auto-updated daily by .github/workflows/stars.yml (last 5 starred repos). -->
 <!-- RECENT_STARS:START -->
+- [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) - A native, user-mode, multi-process, graphical debugger.
+- [madhvantyagi/SOUL.md](https://github.com/madhvantyagi/SOUL.md) - This repo contains different Soul.md files each file is different and allow your agents to behave in unique interesting personality.
 - [TheComputerM/awesome-svelte](https://github.com/TheComputerM/awesome-svelte) - ⚡ A curated list of awesome Svelte resources
 - [smp46/pingvin-share-x](https://github.com/smp46/pingvin-share-x) - Pingvin Share X is a secure and easy self-hosted file sharing platform.
 - [akitaonrails/ai-usagebar](https://github.com/akitaonrails/ai-usagebar) - Rust-based waybar widget to monitor status of Claude, GPT, GLM, OpenRouter plans/credits - inspired by claudebar/codexbar
-- [dirac-run/dirac](https://github.com/dirac-run/dirac) - Coding Agent singularly focused efficiency and context curation. Reduces API costs by 50-80% vs other agent AND improves the code quality at...
-- [waltstephen/ArgusBot](https://github.com/waltstephen/ArgusBot) - ArgusBot: A 24/7 supervisor Agent for Codex CLI and Claude Code CLI that keeps agents running, reviewing, and planning until the job is actu...
 <!-- RECENT_STARS:END -->
 
 ---
