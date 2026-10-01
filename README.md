@@ -130,11 +130,11 @@ otherwise mean opening a DCC and clicking through the same steps again.
 
 <!-- Auto-updated daily by .github/workflows/stars.yml (last 5 starred repos). -->
 <!-- RECENT_STARS:START -->
+- [tumourlove/monolith](https://github.com/tumourlove/monolith) - MCP plugin for Unreal Engine 5.7 &amp; 5.8 — gives AI assistants full read/write access to Blueprints, Materials, Niagara, Animation, Mesh, AI,...
 - [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) - A native, user-mode, multi-process, graphical debugger.
 - [madhvantyagi/SOUL.md](https://github.com/madhvantyagi/SOUL.md) - This repo contains different Soul.md files each file is different and allow your agents to behave in unique interesting personality.
 - [TheComputerM/awesome-svelte](https://github.com/TheComputerM/awesome-svelte) - ⚡ A curated list of awesome Svelte resources
 - [smp46/pingvin-share-x](https://github.com/smp46/pingvin-share-x) - Pingvin Share X is a secure and easy self-hosted file sharing platform.
-- [akitaonrails/ai-usagebar](https://github.com/akitaonrails/ai-usagebar) - Rust-based waybar widget to monitor status of Claude, GPT, GLM, OpenRouter plans/credits - inspired by claudebar/codexbar
 <!-- RECENT_STARS:END -->
 
 ---
