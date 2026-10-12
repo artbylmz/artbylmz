@@ -130,11 +130,11 @@ otherwise mean opening a DCC and clicking through the same steps again.
 
 <!-- Auto-updated daily by .github/workflows/stars.yml (last 5 starred repos). -->
 <!-- RECENT_STARS:START -->
+- [formulahendry/acp-ui](https://github.com/formulahendry/acp-ui) - A modern, cross-platform client for the Agent Client Protocol (ACP) on desktop, mobile, and the web — connect to any ACP-compatible AI agent...
+- [dexloom/vibe-kanban-indie](https://github.com/dexloom/vibe-kanban-indie) - Get 10X more out of Claude Code, Codex or any coding agent
 - [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for...
 - [tumourlove/monolith](https://github.com/tumourlove/monolith) - MCP plugin for Unreal Engine 5.7 &amp; 5.8 — gives AI assistants full read/write access to Blueprints, Materials, Niagara, Animation, Mesh, AI,...
 - [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) - A native, user-mode, multi-process, graphical debugger.
-- [madhvantyagi/SOUL.md](https://github.com/madhvantyagi/SOUL.md) - This repo contains different Soul.md files each file is different and allow your agents to behave in unique interesting personality.
-- [TheComputerM/awesome-svelte](https://github.com/TheComputerM/awesome-svelte) - ⚡ A curated list of awesome Svelte resources
 <!-- RECENT_STARS:END -->
 
 ---
