@@ -130,11 +130,11 @@ otherwise mean opening a DCC and clicking through the same steps again.
 
 <!-- Auto-updated daily by .github/workflows/stars.yml (last 5 starred repos). -->
 <!-- RECENT_STARS:START -->
+- [WinExperiments/AccentColorizer](https://github.com/WinExperiments/AccentColorizer) - Recolorize Win32 controls in-memory with accent color without patching theme
+- [evilmartians/grotesk](https://github.com/evilmartians/grotesk)
+- [evilmartians/mono](https://github.com/evilmartians/mono) - Free and open-source monospaced font from Evil Martians
 - [justrach/nanoui](https://github.com/justrach/nanoui) - Desktop apps in Zig, with native UI drawn on the GPU or a web frontend
 - [ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL) - A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libr...
-- [fcakyon/claude-codex-settings](https://github.com/fcakyon/claude-codex-settings) - Battle-tested Claude Code, OpenAI Codex, Cursor configs, plugins, hooks and agents with Kimi, MiniMax and GLM API support.
-- [formulahendry/acp-ui](https://github.com/formulahendry/acp-ui) - A modern, cross-platform client for the Agent Client Protocol (ACP) on desktop, mobile, and the web — connect to any ACP-compatible AI agent...
-- [dexloom/vibe-kanban-indie](https://github.com/dexloom/vibe-kanban-indie) - Get 10X more out of Claude Code, Codex or any coding agent
 <!-- RECENT_STARS:END -->
 
 ---
