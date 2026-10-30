@@ -130,11 +130,11 @@ otherwise mean opening a DCC and clicking through the same steps again.
 
 <!-- Auto-updated daily by .github/workflows/stars.yml (last 5 starred repos). -->
 <!-- RECENT_STARS:START -->
+- [itxjobe/samsungdebloat](https://github.com/itxjobe/samsungdebloat) - Debloat toolkit for Samsung Galaxy S25, S26 and Z Fold 8 (OneUI 8, 8.5 and 9). Safely remove bloatware with ADB or on-device (Shizuku/Canta)...
 - [WinExperiments/AccentColorizer](https://github.com/WinExperiments/AccentColorizer) - Recolorize Win32 controls in-memory with accent color without patching theme
 - [evilmartians/grotesk](https://github.com/evilmartians/grotesk)
 - [evilmartians/mono](https://github.com/evilmartians/mono) - Free and open-source monospaced font from Evil Martians
 - [justrach/nanoui](https://github.com/justrach/nanoui) - Desktop apps in Zig, with native UI drawn on the GPU or a web frontend
-- [ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL) - A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libr...
 <!-- RECENT_STARS:END -->
 
 ---
